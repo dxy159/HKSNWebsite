@@ -1604,3 +1604,12 @@ img.fullwidth { width: 100%; }
 .executives p {
     font-size: 0.8em;
 }
+
+.executives img {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #000;
+    border-width: 2px;
+}
+
+
